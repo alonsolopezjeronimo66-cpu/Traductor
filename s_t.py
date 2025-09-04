@@ -19,7 +19,7 @@ st.title("Traductor Millonario.")
 st.subheader("Dime que quieres que te traduzca.")
 
 
-image = Image.open('OIG7.jpg')
+image = Image.open('traductormillos.png')
 
 st.image(image,width=300)
 with st.sidebar:
